@@ -23,7 +23,7 @@ jobs:
         with:
           miniconda-version: "latest"
           activate-environment: plio
-          environment-file: doc_environment.yml
+          environment-file: environment_docs.yml
           auto-activate-base: false
           auto-update-conda: true
 
